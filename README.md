@@ -2,13 +2,15 @@
 
 A personal repository tracking my participation in Kaggle's monthly Playground Series competitions.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange?logo=pytorch)
 ![XGBoost](https://img.shields.io/badge/XGBoost-✓-green)
 ![Optuna](https://img.shields.io/badge/Optuna-✓-blue)
 ![Kaggle](https://img.shields.io/badge/Kaggle-gauravsingariya-20BEFF?logo=kaggle)
 
-## Competition Results
+---
+
+### Competition Results
 
 **Scores**
 | Season | Episode | Topic | Metric | Public Score | Private Score |
@@ -24,7 +26,9 @@ A personal repository tracking my participation in Kaggle's monthly Playground S
 | S6 | E3 | 1160 / 4142 | Top 28% | Ensemble |
 | S6 | E4 | 1330 / 4315 | Top 31% | XGBoost |
 
-## Rank Progression
+---
+
+### Rank Progression
 
 ![Rank Progression](Assets/rank_progression.png)
 
@@ -34,7 +38,9 @@ A personal repository tracking my participation in Kaggle's monthly Playground S
 | S6E3 - Customer Churn | 1160 / 4142 | Top 28% |
 | S6E4 - Irrigation Need | 1330 / 4315 | Top 31% |
 
-## Tech Stack
+---
+
+### Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -45,5 +51,7 @@ A personal repository tracking my participation in Kaggle's monthly Playground S
 | **Visualization** | Matplotlib, Seaborn, Plotly |
 | **Hardware** | NVIDIA RTX 4060 Laptop GPU |
 
-## Kaggle Profile
+---
+
+### Kaggle Profile
 [Kaggle - Gaurav Singariya](https://www.kaggle.com/gauravsingariya)

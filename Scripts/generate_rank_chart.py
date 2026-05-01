@@ -37,7 +37,7 @@ for i, (rank, total, pct) in enumerate(zip(ranks, totals, percentiles)):
  
 ax.set_xticks(x)
 ax.set_xticklabels(labels, color = 'white', fontsize = 11)
-ax.set_ylabel('Percentile (Higher = Better)', color='white', fontsize = 11)
+ax.set_ylabel('Percentile', color = 'white', fontsize = 11)
 ax.set_title('Kaggle Playground Series — Rank Progression', color = 'white', fontsize = 14, fontweight = 'bold', pad = 20)
 ax.set_ylim(0, 100)
 ax.yaxis.set_tick_params(labelcolor = 'white')
