@@ -20,11 +20,11 @@ A personal repository tracking my participation in Kaggle's monthly Playground S
 | S6 | E4 | [Predicting Irrigation Need](https://www.kaggle.com/competitions/playground-series-s6e4) | Balanced Accuracy | 0.97002 | 0.97039 |
 
 **Standings**
-| Season | Episode | Best Rank | Percentile | Best Model |
-|---|---|---|---|---|
-| S6 | E2 | 2073 / 4370 | Top 48% | LightGBM |
-| S6 | E3 | 1160 / 4142 | Top 28% | Ensemble |
-| S6 | E4 | 1330 / 4315 | Top 31% | XGBoost |
+| Season | Episode | Duration | Best Rank | Percentile | Best Model |
+|---|---|---|---|---|---|
+| S6 | E2 | Feb 1 - Feb 28, 2026 | 2073 / 4370 | Top 48% | LightGBM |
+| S6 | E3 | Mar 1 - Mar 31, 2026 | 1160 / 4142 | Top 28% | Ensemble |
+| S6 | E4 | Apr 1 - Apr 30, 2026 | 1330 / 4315 | Top 31% | XGBoost |
 
 ---
 
