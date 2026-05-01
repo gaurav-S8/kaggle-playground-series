@@ -1,0 +1,11 @@
+# Jupyter Files
+.ipynb_checkpoints/
+
+# Data files
+*/Data/*.csv
+*/Data/*.xlsx
+*/Data/*.parquet
+
+# Submission files
+*/Submission/*.csv
+*/Submission/*.json
